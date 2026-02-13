@@ -29,7 +29,11 @@ This project predicts the risk of disease recurrence using healthcare data. The 
 
 ## Visualizations
 
-(Add screenshots in the images folder)
+
+<img width="1142" height="899" alt="image" src="https://github.com/user-attachments/assets/48a40f34-a48b-4073-bacc-b55309e99940" />
+
+<img width="624" height="466" alt="image" src="https://github.com/user-attachments/assets/74295bb8-a233-45a0-9c58-ee412b7e66c9" />
+
 
 ## How to Run
 
